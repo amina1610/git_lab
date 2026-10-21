@@ -1,4 +1,4 @@
-print('Программа работает (master-версия)')
-a = int(input('Введите первое число: '))
-b = int(input('Введите второе число: '))
-print(f'Результат умножения: {a * b}')
+print('Программа работает')
+a = int(input('Enter first number: '))
+b = int(input('Enter second number: '))
+print(f'Результат вычитания: {a - b}')
